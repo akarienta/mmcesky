@@ -1,0 +1,35 @@
+{
+    "name": "mcesky",
+    "version": "1.0.0",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/akarienta/mmcecky.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/akarienta/mmcecky/issues"
+    },
+    "homepage": "https://github.com/akarienta/mmcecky#readme",
+    "dependencies": {
+        "lodash": "^4.17.5",
+        "prop-types": "^15.6.1",
+        "react": "^16.3.1",
+        "react-dom": "^16.3.1",
+        "react-helmet": "^5.2.0",
+        "react-router-dom": "^4.2.2"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    },
+    "devDependencies": {
+        "enzyme": "^3.3.0",
+        "enzyme-adapter-react-16": "^1.1.1",
+        "react-scripts": "1.1.4"
+    }
+}
